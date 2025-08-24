@@ -2,9 +2,8 @@
 
 This project is a **Demonstration of the Ekert91 (E91) QKD protocol** implemented in Qiskit.  
 
-In this project, just like in [BB84](https://github.com/VishuVish/A_BB84_sim_using_Qiskit), the random bitstream used here are **not** from built-in pseudorandom generators.  
-It is sourced from my project, [Chaos2Crypto](https://github.com/VishuVish/Chaos2Crypto-FFT-Based-Random-Number-Generator),  
-where I developed an FFT-based random number generator with bias correction and cryptographic extraction.  
+In this project just like in [BB84](https://github.com/VishuVish/A_BB84_sim_using_Qiskit), the random bitstream used here are **not** from built-in pseudorandom generators.  
+It is sourced from my project, [Chaos2Crypto](https://github.com/VishuVish/Chaos2Crypto-FFT-Based-Random-Number-Generator), where I developed an FFT-based random number generator with bias correction and cryptographic extraction.  
 
 ---
 
